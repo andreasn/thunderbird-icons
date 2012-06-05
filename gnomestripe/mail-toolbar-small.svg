@@ -3050,9 +3050,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="120.82052"
-     inkscape:cy="82.557041"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="140.4653"
+     inkscape:cy="24.458769"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -4501,7 +4501,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(99.036717,-25.482868)"
+       transform="translate(99.036717,-45.482868)"
        id="layer1-7-8"
        inkscape:label="Layer 1">
       <g
@@ -4683,7 +4683,7 @@
     </g>
     <g
        id="g11463-1"
-       transform="translate(15.954097,-1.016466)">
+       transform="translate(15.954097,-21.016466)">
       <path
          sodipodi:nodetypes="ccccccccccc"
          id="path17600-1-5"
