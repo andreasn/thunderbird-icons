@@ -76,18 +76,6 @@
        y2="-49"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-20,-20)" />
-    <filter
-       inkscape:collect="always"
-       id="filter12639"
-       x="-0.12"
-       width="1.24"
-       y="-0.12"
-       height="1.24">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.8"
-         id="feGaussianBlur12641" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5272"
@@ -244,9 +232,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-43.402787"
-     inkscape:cy="37.148487"
+     inkscape:zoom="2"
+     inkscape:cx="206.03952"
+     inkscape:cy="18.088995"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -275,7 +263,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
