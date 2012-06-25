@@ -10,12 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="New document 2"
+   sodipodi:docname="QFB-toolbar.svg"
    inkscape:version="0.48.1 r9760"
    version="1.1"
    id="svg2"
    height="42"
-   width="84">
+   width="84"
+   inkscape:export-filename="/home/andreasn/SparkleShare/thunderbird-icons/pinstripe/QFB-toolbar.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
