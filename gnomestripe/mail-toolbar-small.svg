@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="90"
    inkscape:export-xdpi="90"
-   inkscape:export-filename="/home/andreasn/development/thunderbird-icons/gnomestripe/mail-toolbar-small.png"
+   inkscape:export-filename="/home/andreasn/SparkleShare/thunderbird-icons/gnomestripe/mail-toolbar-small.png"
    sodipodi:docname="mail-toolbar-small.svg"
    inkscape:version="0.48.1 r9760"
    version="1.1"
@@ -7891,7 +7891,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
