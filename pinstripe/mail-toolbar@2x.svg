@@ -2264,9 +2264,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="41.953445"
-     inkscape:cy="77.258732"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="35.828423"
+     inkscape:cy="84.431138"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -2366,13 +2366,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      transform="translate(0,92)">
-    <rect
-       style="opacity:0.25;fill:#ef2929;fill-opacity:1;stroke:none"
-       id="rect4575"
-       width="52.785789"
-       height="37.873707"
-       x="31.214211"
-       y="-131.8737" />
     <rect
        style="fill:#729fcf;fill-opacity:1;stroke:none"
        id="rect4224"
@@ -3932,12 +3925,6 @@
        id="path4493-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccc" />
-    <path
-       id="path8407-6-0-2"
-       d="m 53.500002,-126.96387 0,19.45524 6.984914,0 0,-19.45524 c 0,-0.80845 -0.673054,-1.53613 -1.495837,-1.53613 l -4.017285,0.0244 c -0.975846,0 -1.471795,0.62732 -1.471794,1.51172 z m 0.269693,21.47797 3.262429,7.082756 3.205195,-7.093806 z"
-       inkscape:connector-curvature="0"
-       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
-       sodipodi:nodetypes="cccsccccccc" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 64.4375,3.8125 c -0.815498,1.2e-6 -1.627096,0.314595 -2.25,0.9375 L 51.03125,15.90625 48.1875,18.75 47.46875,19.46875 43.4375,30.5625 l 0,0.875 11.09375,-4.03125 0.71875,-0.6875 14,-14.03125 c 0.735119,-0.735119 1.041517,-1.735617 0.90625,-2.6875 -0.0014,-0.00982 0.0015,-0.021442 0,-0.03125 C 70.273615,9.0269201 69.973899,8.0363958 69.25,7.3125 L 66.6875,4.75 C 66.064592,4.12709 65.252998,3.8124988 64.4375,3.8125 z m 0,1 c 0.556821,-1.3e-6 1.098095,0.223095 1.53125,0.65625 l 2.5625,2.5625 c 0.86631,0.86631 0.866305,2.22744 0,3.09375 l -14,14 L 48.875,19.46875 51.71875,16.625 62.875,5.46875 C 63.308152,5.0356 63.880679,4.8125013 64.4375,4.8125 z m -16.25,15.34375 5.65625,5.65625 -8.75,3.09375 z"
