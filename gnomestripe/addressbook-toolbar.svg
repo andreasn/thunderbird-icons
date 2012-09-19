@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="54.438636"
+     inkscape:cx="55.438636"
      inkscape:cy="12.172436"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -36,7 +36,7 @@
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="959"
-     inkscape:window-height="1011"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="0">
@@ -2350,13 +2350,6 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <image
-       width="122"
-       height="48"
-       xlink:href="file:///home/andreasn/development/comm-central/mail/themes/gnomestripe/mail/icons/addressbook-toolbar.png"
-       id="image2993"
-       x="0"
-       y="60.362183" />
     <g
        transform="translate(0.98887065,1.3621835)"
        inkscape:label="Layer 1"
