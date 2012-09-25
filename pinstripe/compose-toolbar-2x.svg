@@ -190,18 +190,6 @@
        y2="25.091425"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,1.6198347e-6)" />
-    <linearGradient
-       id="linearGradient5611-8-1"
-       inkscape:collect="always">
-      <stop
-         id="stop5613-2-5"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1" />
-      <stop
-         id="stop5615-9-3"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0" />
-    </linearGradient>
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
@@ -219,7 +207,7 @@
        gradientTransform="matrix(2,0,0,2,515.0168,-126.94218)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient5091"
-       xlink:href="#linearGradient5611-8-1"
+       xlink:href="#linearGradient5611"
        inkscape:collect="always" />
     <filter
        color-interpolation-filters="sRGB"
@@ -1125,20 +1113,8 @@
        gradientTransform="matrix(2,0,0,2,515.0168,-90.942181)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient5091-1"
-       xlink:href="#linearGradient5611-8-1-16"
+       xlink:href="#linearGradient5611"
        inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient5611-8-1-16"
-       inkscape:collect="always">
-      <stop
-         id="stop5613-2-5-53"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1" />
-      <stop
-         id="stop5615-9-3-1"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0" />
-    </linearGradient>
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
@@ -1332,9 +1308,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="247.43588"
-     inkscape:cy="0.3660778"
+     inkscape:zoom="16"
+     inkscape:cx="55.651674"
+     inkscape:cy="48.474441"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
