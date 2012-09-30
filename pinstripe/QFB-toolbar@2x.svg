@@ -16,7 +16,7 @@
    id="svg2"
    height="84"
    width="168"
-   inkscape:export-filename="/home/andreasn/SparkleShare/thunderbird-icons/pinstripe/QFB-toolbar.png"
+   inkscape:export-filename="/home/andreasn/SparkleShare/thunderbird-icons/pinstripe/QFB-toolbar@2x.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="34.839178"
-     inkscape:cy="0.6233782"
+     inkscape:zoom="1"
+     inkscape:cx="160.42532"
+     inkscape:cy="132.13705"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -1401,7 +1401,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1566,7 +1566,7 @@
        id="path8512-9-1-8-5-7-7" />
     <path
        style="fill:none;stroke:url(#linearGradient7136);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-       d="m 132.7683,-57.551089 -4.89604,-4.702275 c -0.82049,-0.891934 -1.55204,-1.012581 -2.27787,-1.207066 L 118.1789,-63.5 c -1.34536,0 -1.6789,0.640795 -1.6789,1.631999 l 0,6.856302"
+       d="m 132.59152,-57.418506 -4.96233,-4.923246 c -0.82049,-0.891934 -1.30897,-0.924193 -2.0348,-1.118678 L 118.1789,-63.5 c -1.34536,0 -1.6789,0.640795 -1.6789,1.631999 l 0,6.856302"
        id="path7126"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -1739,7 +1739,7 @@
        id="path8512-9-1-8-5-7-7-7" />
     <path
        style="fill:none;stroke:url(#linearGradient7136-8);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-       d="m 132.7683,-29.551091 -4.89604,-4.702275 c -0.82049,-0.891934 -1.55204,-1.012581 -2.27787,-1.207066 l -7.41549,-0.03957 c -1.34536,0 -1.6789,0.640795 -1.6789,1.631999 l 0,6.856302"
+       d="m 132.56943,-29.440606 -4.74136,-4.81276 c -0.82049,-0.891934 -1.50785,-1.012581 -2.23368,-1.207066 l -7.41549,-0.03957 c -1.34536,0 -1.6789,0.640795 -1.6789,1.631999 l 0,6.856302"
        id="path7126-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
