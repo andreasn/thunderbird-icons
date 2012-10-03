@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="offline@2x.svg"
+   inkscape:export-filename="/home/andreasn/SparkleShare/thunderbird-icons/pinstripe/offline@2x.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -53,94 +56,6 @@
          style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop6138" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5953">
-      <stop
-         style="stop-color:#91bfee;stop-opacity:1"
-         offset="0"
-         id="stop5955" />
-      <stop
-         style="stop-color:#2296f9;stop-opacity:1"
-         offset="1"
-         id="stop5957" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5945">
-      <stop
-         style="stop-color:#20262b;stop-opacity:1;"
-         offset="0"
-         id="stop5947" />
-      <stop
-         style="stop-color:#525455;stop-opacity:1"
-         offset="1"
-         id="stop5949" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5945"
-       id="linearGradient5951"
-       x1="534.97266"
-       y1="256.25491"
-       x2="534.97266"
-       y2="252.36816"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-23.999996,0)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5953"
-       id="linearGradient5959"
-       x1="531.97266"
-       y1="252.36816"
-       x2="531.97266"
-       y2="255.37077"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-23.999996,0)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5953-1"
-       id="linearGradient5959-1"
-       x1="531.97266"
-       y1="252.36816"
-       x2="531.97266"
-       y2="255.37077"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(26.000014,-8.0000042)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5953-1">
-      <stop
-         style="stop-color:#91bfee;stop-opacity:1"
-         offset="0"
-         id="stop5955-5" />
-      <stop
-         style="stop-color:#2296f9;stop-opacity:1"
-         offset="1"
-         id="stop5957-4" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5945-6"
-       id="linearGradient5951-2"
-       x1="534.97266"
-       y1="256.25491"
-       x2="534.97266"
-       y2="252.36816"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(26.000014,-8.0000042)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5945-6">
-      <stop
-         style="stop-color:#20262b;stop-opacity:1;"
-         offset="0"
-         id="stop5947-6" />
-      <stop
-         style="stop-color:#525455;stop-opacity:1"
-         offset="1"
-         id="stop5949-3" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -268,8 +183,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-21.853411"
-     inkscape:cy="14.150305"
+     inkscape:cx="-12.392953"
+     inkscape:cy="-3.5273649"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -309,20 +224,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-535.97266,-237.36816)">
-    <rect
-       style="fill:#1fd98f;fill-opacity:1;stroke:none"
-       id="rect2998"
-       width="16.000004"
-       height="15.999996"
-       x="535.97266"
-       y="276.36816" />
-    <image
-       y="276.36816"
-       x="535.97266"
-       id="image2993"
-       xlink:href="file:///home/andreasn/development/comm-central/mail/themes/pinstripe/mail/icons/online.png"
-       height="16"
-       width="16" />
     <g
        id="g6232">
       <rect
