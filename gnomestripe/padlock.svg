@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="padlock.svg"
+   inkscape:export-filename="/home/andreasn/SparkleShare/thunderbird-icons/gnomestripe/padlock.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -108,22 +111,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <image
-       y="1033.5809"
-       x="22.875"
-       id="image2993"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAABHNCSVQICAgIfAhkiAAAAZpJREFU
-KJHFks1u00AUhT+PLaWJRezK9aIi22Zf6BLEinUFj5AH6zMgIVBbFbViAYVF2ULKrtmkIaE/ceJk
-7h2zcGMaCanKiiMdaWakOffnHPjf8A4/vH9pjNlT1dYqH33f7znnOhwdH1xkWVasivH4tjg63r8I
-VKVVq9WYTCfU19YAj6Io7tFVZ+fK+2w+o/koQlVb5q4d8umUy8s+qoJzinMO59ySGBSMRkNmeY7v
-+6gqZjFTo9HAWuFH9zsiguqCWvH8ZxdVJQxDAKy1fwVEhDiOqddDPp9+wlqLqiAiiFi+fD0lDEPi
-OEZVK4GgbA1ELADGeIgIB4f7PNneBuDs2xnNKMIYg3OucsJaS2CtAFAUBdc31/T7fXae7vBrOOTk
-4wkAz5+9YCNJ6J538TyPqBndCQiB2LJyNsmYz+a0t9oAbCQJr3ZfL3nf3mozGAzIJhnr60m5g3JW
-xTc+aZo+GKA0TfFN6cBiB73x+La1ufn44fjdw++rEUAvyPO88/bdm725ta3Kc7ccIrf0VjII/N7c
-2s5KVf+FP+B6T5WPieUJAAAAAElFTkSuQmCC
-"
-       height="15"
-       width="16" />
     <rect
        style="fill:none;stroke:#888a85;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3786"
