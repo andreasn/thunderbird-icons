@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="insert-menu.svg">
+   sodipodi:docname="insert-menu@2x.svg"
+   inkscape:export-filename="/home/andreasn/SparkleShare/thunderbird-icons/pinstripe/insert-menu@2x.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -198,12 +201,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
+     inkscape:zoom="4.206235"
      inkscape:cx="-79.957564"
      inkscape:cy="78.833753"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -249,7 +252,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -505,7 +508,7 @@
        sodipodi:cy="74.661049"
        sodipodi:rx="2.3955071"
        sodipodi:ry="1.4805049"
-       d="m 24.192256,74.661049 a 2.3955071,1.4805049 0 1 1 -4.791014,0 2.3955071,1.4805049 0 1 1 4.791014,0 z"
+       d="m 24.192256,74.661049 c 0,0.81766 -1.072505,1.480505 -2.395507,1.480505 -1.323002,0 -2.395507,-0.662845 -2.395507,-1.480505 0,-0.81766 1.072505,-1.480505 2.395507,-1.480505 1.323002,0 2.395507,0.662845 2.395507,1.480505 z"
        transform="matrix(1.2523444,0,0,1,827.27291,-488.83807)" />
     <path
        sodipodi:type="arc"
@@ -515,7 +518,7 @@
        sodipodi:cy="74.661049"
        sodipodi:rx="2.3955071"
        sodipodi:ry="1.4805049"
-       d="m 24.192256,74.661049 a 2.3955071,1.4805049 0 1 1 -4.791014,0 2.3955071,1.4805049 0 1 1 4.791014,0 z"
+       d="m 24.192256,74.661049 c 0,0.81766 -1.072505,1.480505 -2.395507,1.480505 -1.323002,0 -2.395507,-0.662845 -2.395507,-1.480505 0,-0.81766 1.072505,-1.480505 2.395507,-1.480505 1.323002,0 2.395507,0.662845 2.395507,1.480505 z"
        transform="matrix(0.83489696,0,0,1.0131692,833.37191,-489.8018)" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
@@ -538,7 +541,7 @@
        sodipodi:cy="73.515625"
        sodipodi:rx="2.4375"
        sodipodi:ry="1.109375"
-       d="m 11.59375,73.515625 a 2.4375,1.109375 0 1 1 -4.875,0 2.4375,1.109375 0 1 1 4.875,0 z"
+       d="m 11.59375,73.515625 c 0,0.612691 -1.091306,1.109375 -2.4375,1.109375 -1.3461941,0 -2.4375,-0.496684 -2.4375,-1.109375 0,-0.612691 1.0913059,-1.109375 2.4375,-1.109375 1.346194,0 2.4375,0.496684 2.4375,1.109375 z"
        transform="matrix(1.4358974,0,0,1.3521147,827.92251,-514.55909)" />
     <path
        sodipodi:type="arc"
@@ -548,7 +551,7 @@
        sodipodi:cy="73.515625"
        sodipodi:rx="2.4375"
        sodipodi:ry="1.109375"
-       d="m 11.59375,73.515625 a 2.4375,1.109375 0 1 1 -4.875,0 2.4375,1.109375 0 1 1 4.875,0 z"
+       d="m 11.59375,73.515625 c 0,0.612691 -1.091306,1.109375 -2.4375,1.109375 -1.3461941,0 -2.4375,-0.496684 -2.4375,-1.109375 0,-0.612691 1.0913059,-1.109375 2.4375,-1.109375 1.346194,0 2.4375,0.496684 2.4375,1.109375 z"
        transform="matrix(1.2307701,0,0,1.3521147,833.30071,-514.55909)" />
   </g>
 </svg>
