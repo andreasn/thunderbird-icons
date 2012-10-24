@@ -1142,9 +1142,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="244.12365"
-     inkscape:cy="40.953618"
+     inkscape:zoom="2"
+     inkscape:cx="183.85042"
+     inkscape:cy="94.336459"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1273,7 +1273,7 @@
        height="1.875"
        x="760.14532"
        y="-370.25"
-       transform="matrix(0.75645821,0,0,1,184.71801,0)" />
+       transform="matrix(0.80864574,0,0,1.9312321,143.63558,343.91566)" />
     <rect
        style="opacity:0.40000000000000002;color:#000000;fill:#454052;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter4367)"
        id="rect4365"
