@@ -15,40 +15,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="threadpane-col@2x.svg">
   <defs
      id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5611-06"
-       id="linearGradient5449-0"
-       x1="309.54227"
-       y1="-79"
-       x2="309.54227"
-       y2="-72"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(643.0444,-279.98293)" />
-    <linearGradient
-       id="linearGradient5611-06"
-       inkscape:collect="always">
-      <stop
-         id="stop5613-95"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1" />
-      <stop
-         id="stop5615-051"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0" />
-    </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter5451-2">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.15864708"
-         id="feGaussianBlur5453-4" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5367-8"
@@ -92,15 +61,6 @@
          offset="1"
          style="stop-color:#80878f;stop-opacity:1" />
     </linearGradient>
-    <linearGradient
-       y2="5.5124092"
-       x2="34.600384"
-       y1="2.3557227"
-       x1="34.600384"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3311"
-       xlink:href="#linearGradient5518"
-       inkscape:collect="always" />
     <linearGradient
        y2="-19"
        x2="76"
@@ -194,14 +154,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-774.6087,384.55707)">
-    <rect
-       style="color:#000000;fill:#3465a4;fill-opacity:0.70196077999999995;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect4053"
-       width="77"
-       height="35.875"
-       x="-1.125"
-       y="43.25"
-       transform="translate(774.6087,-384.55707)" />
     <image
        y="-333.55707"
        x="763.6087"
