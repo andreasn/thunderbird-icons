@@ -20,6 +20,18 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient4570">
+      <stop
+         style="stop-color:#6b6d6f;stop-opacity:1;"
+         offset="0"
+         id="stop4572" />
+      <stop
+         style="stop-color:#acaeaf;stop-opacity:1"
+         offset="1"
+         id="stop4574" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient4525">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -305,6 +317,16 @@
        r="5.4608645"
        gradientTransform="matrix(1.0520823,0,1.3108009e-6,0.61803401,-22.559259,14.610199)"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4570"
+       id="linearGradient4576"
+       x1="1340.677"
+       y1="-376.42044"
+       x2="1340.677"
+       y2="-385.1636"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-80)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -313,12 +335,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="390.95327"
-     inkscape:cy="-87.536755"
+     inkscape:zoom="1"
+     inkscape:cx="623.9794"
+     inkscape:cy="77.041916"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -644,6 +666,15 @@
        xlink:href="file:///home/andreasn/development/comm-central/mail/themes/pinstripe/mail/accountcentral/search-messages.png"
        height="64"
        width="64" />
+    <rect
+       style="color:#000000;fill:#e3e4e8;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4576);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4560"
+       width="53.999996"
+       height="30.000002"
+       x="1312.677"
+       y="-463.42044"
+       rx="0"
+       ry="0" />
     <image
        y="-430.42044"
        x="1371.677"
@@ -962,5 +993,38 @@
        sodipodi:ry="3.375"
        d="m 438.89049,38.25 a 5.4608645,3.375 0 1 1 -10.92173,0 5.4608645,3.375 0 1 1 10.92173,0 z"
        transform="matrix(1.0987268,0,0,0.88888899,753.45627,-427.42044)" />
+    <rect
+       style="color:#000000;fill:#3f85e7;fill-opacity:1;fill-rule:nonzero;stroke:#336bc1;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4556"
+       width="5.9999962"
+       height="5.9999695"
+       x="1354.677"
+       y="-417.42044"
+       rx="0.921875"
+       ry="0.921875" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.25;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 1355.5833,-418.40625 c -1.0509,0 -1.9063,0.85539 -1.9063,1.90625 l 0,2.12332 8,0 0,-2.12332 c 0,-1.05086 -0.8866,-1.90625 -1.9375,-1.90625 z"
+       id="rect4533"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccsss" />
+    <rect
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4578"
+       width="49.999996"
+       height="26.000002"
+       x="1314.677"
+       y="-421.42044" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.25"
+       d="m 1311.677,-424.42044 56,0 0,15 c 0,0 -14.5044,-2.52793 -28.625,-2.5 -14.1206,0.0279 -27.375,2.5 -27.375,2.5 z"
+       id="rect4580"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccczcc" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#373737;fill-opacity:1;stroke:none;stroke-width:3.69150257;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 538 11.96875 C 529.2065 11.96875 522.03125 19.4136 522.03125 28.53125 C 522.03125 37.64891 529.2065 45.0625 538 45.0625 C 541.83836 45.0625 545.36691 43.635583 548.125 41.28125 C 548.74278 42.662279 550.27261 45.803869 551.4375 46.96875 L 559.21875 54.78125 C 559.21875 54.78125 561.89375 57.55304 564.71875 54.75 C 567.54365 51.94703 564.78125 49.125 564.78125 49.125 L 557.0625 41.34375 C 555.79427 40.075481 552.05628 38.332503 551.125 37.90625 C 552.91012 35.234485 553.96875 32.016351 553.96875 28.53125 C 553.96875 19.4136 546.7935 11.96875 538 11.96875 z M 538 16.03125 C 544.6705 16.03125 550.03125 21.61485 550.03125 28.53125 C 550.03125 35.44766 544.6705 41 538 41 C 531.3295 41 525.96875 35.44766 525.96875 28.53125 C 525.96875 21.61485 531.3295 16.03125 538 16.03125 z "
+       transform="translate(795.677,-430.42044)"
+       id="path4583" />
   </g>
 </svg>
