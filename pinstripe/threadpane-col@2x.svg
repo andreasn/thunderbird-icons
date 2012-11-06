@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="threadpane-col@2x.svg">
+   sodipodi:docname="threadpane-col@2x.svg"
+   inkscape:export-filename="/home/andreasn/SparkleShare/thunderbird-icons/pinstripe/threadpane-col@2x.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -90,7 +93,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
+     inkscape:zoom="5.9139839"
      inkscape:cx="79.460636"
      inkscape:cy="14.167319"
      inkscape:document-units="px"
@@ -192,7 +195,7 @@
        sodipodi:cy="16"
        sodipodi:rx="6"
        sodipodi:ry="6"
-       d="m 88,16 a 6,6 0 1 1 -12,0 6,6 0 1 1 12,0 z"
+       d="m 88,16 c 0,3.313708 -2.686292,6 -6,6 -3.313708,0 -6,-2.686292 -6,-6 0,-3.313708 2.686292,-6 6,-6 3.313708,0 6,2.686292 6,6 z"
        transform="translate(772.6087,-384.55707)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;opacity:0.75"
